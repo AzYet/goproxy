@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/goproxy/goproxy"
+	"github.com/AzYet/goproxy"
 )
 
 // Disk implements the `goproxy.Cacher` by using the disk.

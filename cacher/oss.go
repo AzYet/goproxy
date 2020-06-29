@@ -5,7 +5,7 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/goproxy/goproxy"
+	"github.com/AzYet/goproxy"
 )
 
 // OSS implements the `goproxy.Cacher` by using the Alibaba Cloud Object Storage

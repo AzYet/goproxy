@@ -5,7 +5,7 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/goproxy/goproxy"
+	"github.com/AzYet/goproxy"
 )
 
 // Kodo implements the `goproxy.Cacher` by using the Qiniu Cloud Kodo.

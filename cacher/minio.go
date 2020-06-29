@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/goproxy/goproxy"
+	"github.com/AzYet/goproxy"
 	"github.com/minio/minio-go/v6"
 	"github.com/minio/minio-go/v6/pkg/credentials"
 	"github.com/minio/minio-go/v6/pkg/s3utils"

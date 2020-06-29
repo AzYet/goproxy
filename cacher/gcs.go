@@ -5,7 +5,7 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/goproxy/goproxy"
+	"github.com/AzYet/goproxy"
 )
 
 // GCS implements the `goproxy.Cacher` by using the Google Cloud Storage.
